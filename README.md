@@ -1,36 +1,83 @@
-# Data Handling & Web Scraping Journey 🚀
 
-This repository documents my daily learning journey in data handling and analysis using Python.  
-Each day covers a new topic with practical code examples.
+# 🧠 My ML Journey — Step 2: Gathering Data 🚀
 
----
-
-## 📅 Progress
-
-- **Day 1:** Working with CSV files (reading, writing, analyzing data).  
-- **Day 2:** Working with JSON (parsing and manipulating JSON data).  
-- **Day 3:** SQL basics with Python (connecting, querying, and managing databases).  
-- **Day 4:** Fetching Data from APIs (making requests and handling responses).  
-- **Day 5:** Web Scraping (extracting useful data from websites using BeautifulSoup).  
+Welcome to my repository!  
+This is not just random code — it’s part of my **Machine Learning Development Life Cycle (MLDLC)** journey.  
+I’m building my skills **step by step**, and right now I’m focused on **Step 2: Gathering Data**.  
 
 ---
 
-## 🛠️ Technologies & Libraries
+## 🔄 Where I Am in the ML Workflow
+
+✅ Step 1 — Framing the Problem  
+   I explored how to define ML problems properly.  
+
+🟢 Step 2 — Gathering Data (current focus)  
+   Here I’m learning all the different ways data can be collected:  
+   - flat files (CSV, JSON)  
+   - databases (SQL, SSMS)  
+   - APIs  
+   - and even scraping from the web.  
+
+⏳ Step 3 — Data Cleaning & Preparation (coming next...)  
+
+---
+
+## 📅 My Daily Practice Log
+
+- **Day 1:** Played with **CSV** files → reading, writing, analyzing.  
+- **Day 2:** Combined **JSON parsing** with fetching data from my own **SQL Server (SSMS database)**.  
+- **Day 3:** Wrote queries in **SQL using Python** → storing and retrieving data programmatically.  
+- **Day 4:** Pulled real-time data by **Fetching APIs**.  
+- **Day 5:** Tried **Web Scraping** with BeautifulSoup to collect data directly from websites.  
+
+---
+
+## 🛠️ Tools in My Toolkit
 - Python 3  
 - Pandas  
-- JSON module  
-- SQLite3  
+- JSON  
+- SQL (SQLite3 + SSMS)  
 - Requests  
 - BeautifulSoup4  
 
 ---
 
-## 🎯 Objective
-To build a strong foundation in **data handling, APIs, and web scraping**, while practicing real-world data workflows step by step.
+## 🎯 Why Am I Doing This?
+Because before you can clean, model, or deploy —  
+you must **master the art of gathering data**.  
+
+This repo is my sandbox where I practice data collection in multiple formats, making myself ready for the tougher ML steps ahead.  
 
 ---
 
-## 📌 How to Use
-1. Clone the repository:
+## 📌 Run the Code
+1. Clone the repo:
    ```bash
    git clone https://github.com/Sidra-009/your-repo-name.git
+````
+
+2. Move into the folder:
+
+   ```bash
+   cd your-repo-name
+   ```
+3. Run the practice files step by step:
+
+   ```bash
+   python day1_csv.py
+   ```
+
+---
+
+## 🌟 Coming Soon
+
+* Data cleaning & preprocessing
+* Feature engineering
+* First ML models 🚀
+
+---
+
+✍️ *This is my personal ML learning diary in code form. If you’re also on this journey, welcome aboard!*
+
+```
