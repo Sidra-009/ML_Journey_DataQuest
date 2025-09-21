@@ -23,16 +23,6 @@ I’m building my skills **step by step**, and right now I’m focused on **Step
 
 ---
 
-## 📅 My Daily Practice Log
-
-- **Day 1:** Played with **CSV** files → reading, writing, analyzing.  
-- **Day 2:** Combined **JSON parsing** with fetching data from my own **SQL Server (SSMS database)**.  
-- **Day 3:** Wrote queries in **SQL using Python** → storing and retrieving data programmatically.  
-- **Day 4:** Pulled real-time data by **Fetching APIs**.  
-- **Day 5:** Tried **Web Scraping** with BeautifulSoup to collect data directly from websites.  
-
----
-
 ## 🛠️ Tools in My Toolkit
 - Python 3  
 - Pandas  
