@@ -1,5 +1,3 @@
-
-
 # 🧠 My ML Journey Step 2: Gathering Data 🚀
 
 Welcome to my repository!  
