@@ -1,4 +1,5 @@
 # 🧠 My ML Journey Step 2: Gathering Data 🚀
+
 Welcome to my repository!  
 This is not just random code — it’s part of my **Machine Learning Development Life Cycle (MLDLC)** journey.  
 I’m building my skills **step by step**, and right now I’m focused on **Step 2: Gathering Data**.
